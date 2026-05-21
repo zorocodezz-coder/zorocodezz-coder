@@ -3,10 +3,6 @@
 <!-- ZORO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=RORONOA%20ZORO%20MODE%20⚔️&fontSize=40&fontColor=c9a84c&fontAlignY=38&desc=Nothing%20Happened.%20%7C%20Code%20or%20Die.&descAlignY=58&descColor=ffffff&animation=twinkling" width="100%" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=⚔️+Nothing+Happened.;🏴‍☠️+Destined+to+be+the+World's+Greatest+Coder;🧠+DSA+%7C+LeetCode+%7C+FAANG+Prep;🌊+Set+Sail+%E2%80%94+Your+Coding+Dojo+Awaits" alt="Typing SVG" />
-</a>
 
 <br/>
 
@@ -117,15 +113,15 @@ I'm a coder who **lives and breathes programming** — and I'm here to make **YO
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&border_color=c9a84c&border_radius=10&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zorocodezz-coder&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&border_color=c9a84c&border_radius=10&hide_border=false" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff&border_color=c9a84c&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorocodezz-coder&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff&border_color=c9a84c&border_radius=10" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&background=0d0d0d&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c&sideLabels=c9a84c&border=c9a84c" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user&theme=dark&background=0d0d0d&ring=c9a84c&fire=ff6b35&currStreakLabel=c9a84c&sideLabels=c9a84c&border=c9a84c" width="500"/>
 
 </div>
 
@@ -135,7 +131,7 @@ I'm a coder who **lives and breathes programming** — and I'm here to make **YO
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)
+![](https://github-profile-trophy.vercel.app/?username=zorocodezz-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)
 
 </div>
 
@@ -172,10 +168,7 @@ I'm a coder who **lives and breathes programming** — and I'm here to make **YO
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE_TO_THE_DOJO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YourChannel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MY_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YourProfile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Codeforces](https://img.shields.io/badge/Codeforces-MY_PROFILE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YourProfile)
+[![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE_TO_THE_DOJO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZoroCodezz)
 
 </div>
 
