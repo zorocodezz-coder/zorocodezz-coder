@@ -85,7 +85,7 @@ I'm a coder who **lives and breathes programming** — and I'm here to make **YO
 | 🎬 Coming Soon... | Build a Full-Stack App from Scratch |
 | 🎬 Coming Soon... | FAANG Interview Prep — No Shortcuts |
 
-📺 **[SUBSCRIBE TO THE DOJO →](https://youtube.com/@YourChannel)**
+📺 **[SUBSCRIBE TO THE DOJO →](https://www.youtube.com/@ZoroCodezz)**
 
 ---
 
